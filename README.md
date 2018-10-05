@@ -212,6 +212,21 @@ Other useful links for RStudio and GitHub:
 
 [RStudio and GitHub](https://www.r-bloggers.com/rstudio-and-github/)
 
+Github Desktop
+===============
+Github desktop is another very conveinient way to interface with Github. You can download Github desktop here (https://desktop.github.com/). 
+
+1. You can add new repositories straight from a directory on your computer straight to Github with the add repository function.
+
+2. You can clone repositories that are already on your Github page using the clone repository function.
+
+3. You can then easily push commits using the push command. 
+
+4. Evyerthing else you can do in Github you can do using Github desktop. It's also incredibly intuitive to use and all you have to do
+is play around in it. 
+
+5. There is a user guide available here: https://help.github.com/desktop/
+
 Licenses
 ========
 
